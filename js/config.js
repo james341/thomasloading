@@ -63,6 +63,8 @@ var l_bgImages = [
         "image8.jpg",
         "image9.jpg",
         "image10.jpg",
+        "image11.jpg",
+        "image12.jpg",
 ];
 
 /*Random background images order?*/
@@ -105,8 +107,10 @@ var l_musicPlaylist = [
         {youtube: "tuaSnW8w6xg", name: "Atlas - Installation Music"},
         {youtube: "8G9XfgybSxE", name: "Atlas - Installation Music"},
         {youtube: "KFqeHVP-8ak", name: "Atlas - Installation Music"},
-        {youtube: "g3R9OAOOAaM", name: "Atlas - Installation Music"},
-        {youtube: "Py9Ye7uzuiI", name: "Atlas - Installation Music"},
+        {youtube: "cmCA2yJHGfs", name: "Atlas - Installation Music"},
+        {youtube: "JWHLBJITLlQ", name: "Atlas - Installation Music"},
+        {youtube: "VoXR4Bi2i7o", name: "Atlas - Installation Music"},
+        {youtube: "XADORzlj__g", name: "Atlas - Installation Music"},
 
 ];
 
