@@ -111,6 +111,8 @@ var l_musicPlaylist = [
         {youtube: "JWHLBJITLlQ", name: "Atlas - Installation Music"},
         {youtube: "VoXR4Bi2i7o", name: "Atlas - Installation Music"},
         {youtube: "XADORzlj__g", name: "Atlas - Installation Music"},
+        {youtube: "IhINyF1pA0s", name: "Atlas - Installation Music"},
+        {youtube: "H7JXdvjxzVU", name: "Atlas - Installation Music"},
 
 ];
 
@@ -126,7 +128,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"As soon as you obtain a disguise you then have republic communications (Weapons and equipment not included!",
+	"Lock picking, keypad cracking and trespassing do make you KOS to the property owner!",
 	"Do not turn off/Destroy ship modules for any reason. Doing so may result in an arrest, warn, or ban, as different modules carry different punishments!",
 	"You must not use any homophobic, racist or offensive language In character (IC) or out of character(OOC)!",
         "Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
@@ -138,19 +140,19 @@ var l_messages = [
         "Never assault an innocent/ally. If attacked you may defend yourself. NOTE: You must be DAMAGED! (not just blinded/pushed) in order to defend yourself!",
         "Please Don't be a dick to people. Being an 'edgy cool teenager' won't get you far on this server. You will be banned. Toxicity is not tolerated!",
         "Mingeing means purposefully harming the roleplay of the server, breaking or attempting to break the server's rules in any way and generally acting like an idiot!",
-        "To join anything other than Storm trooper, You must be in our Discord at (This includes donator battalions Btw!",
+        "All jobs can own a defence firearm (1 handed) to protect their property, not to be used as an attacking weapon and not to be drawn when not (RP) threatened!",
         "You need to listen to people that are higher rank than you. If that person is abusing their rank, let a staff member know!",
         "Donations will not be Refunded, swapped or exchanged unless with explicit circumstances and discussion with the executive members of the staff team, such situations (an unforeseen issue has appeared with the product, such as a broken model!",
         "Cheating will result in an automatic or Permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
-        "If you wish to transfer your rank to another regiment you must speak with the necessary Battalion member OOC Regimental disrespect is not permitted!",
+        "You cannot remember that you were raided, or who raided you, so you can't be prepared.) Once you die in a raid as a defender (Or an attacker) you can't return to Defend!",
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
         "Anything that is considered detrimental to the roleplay of any situation by a staff member is to be Respected!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "Any attempts of scamming or misleading players / staff will result in a harsh punishment!",
-        "Certain Fleet Ranks can demote and promote anyone except Jedi and only Jedi. Inform a troopers commander about a demotion or promotion every time!",
+        "Do not build inside unowned buildings. A user/s must buy the doors to the building they are building in/on (exceptions can be made for someone who has already built a base and forgot to Purchase doors!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "Random Death Matching (RDM) is not allowed You must always stay in character and role play every situation that you come across, otherwise this will be considered Fail Role Play (FailRP)!",
-        "Spoilers on Star Wars films or TV shows within their first month of release will result in a minimum one week Ban!"
+        "AFK Printer farming is not allowed. If you are AFK for more than 30 minutes you may be kicked!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
