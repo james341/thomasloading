@@ -75,6 +75,8 @@ var l_bgImages = [
         "image20.jpg",
         "image21.jpg",
         "image22.jpg",
+        "image23.jpg",
+        "image24.jpg",
 ];
 
 /*Random background images order?*/
@@ -149,6 +151,7 @@ var l_musicPlaylist = [
         {youtube: "pYvFhes8UA4", name: "Atlas - Installation Music"},
         {youtube: "DZ5cU5yZyQ0", name: "Atlas - Installation Music"},
         {youtube: "5lC-9EbCYkw", name: "Atlas - Installation Music"},
+        {youtube: "p57RBBtO-bg", name: "Atlas - Installation Music"},
 
 ];
 
