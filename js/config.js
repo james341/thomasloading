@@ -147,6 +147,8 @@ var l_musicPlaylist = [
         {youtube: "PpwyBlSQ8U0", name: "Atlas - Installation Music"},
         {youtube: "-fctzd4Iwig", name: "Atlas - Installation Music"},
         {youtube: "pYvFhes8UA4", name: "Atlas - Installation Music"},
+        {youtube: "DZ5cU5yZyQ0", name: "Atlas - Installation Music"},
+        {youtube: "5lC-9EbCYkw", name: "Atlas - Installation Music"},
 
 ];
 
@@ -180,13 +182,13 @@ var l_messages = [
         "Cheating will result in an automatic or Permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "You cannot remember that you were raided, or who raided you, so you can't be prepared.) Once you die in a raid as a defender (Or an attacker) you can't return to Defend!",
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
-        "Anything that is considered detrimental to the roleplay of any situation by a staff member is to be Respected!",
+        "Do not caused Confusion and delay!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "Any attempts of scamming or misleading players / staff will result in a harsh punishment!",
         "Do not build inside unowned buildings. A user/s must buy the doors to the building they are building in/on (exceptions can be made for someone who has already built a base and forgot to Purchase doors!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "Random Death Matching (RDM) is not allowed You must always stay in character and role play every situation that you come across, otherwise this will be considered Fail Role Play (FailRP)!",
-        "AFK Printer farming is not allowed. If you are AFK for more than 30 minutes you may be kicked!"
+        "don't like trains! Then get the fuck outta of this server!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
