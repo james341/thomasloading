@@ -153,12 +153,12 @@ var l_musicPlaylist = [
         {youtube: "pYvFhes8UA4", name: "Atlas - Installation Music"},
         {youtube: "DZ5cU5yZyQ0", name: "Atlas - Installation Music"},
         {youtube: "5lC-9EbCYkw", name: "Atlas - Installation Music"},
-        {youtube: "lIFv6hJdcj8", name: "Atlas - Installation Music"},
-        {youtube: "QjGLYKOnYp0", name: "Atlas - Installation Music"},
-        {youtube: "UmOgz0VmGKU", name: "Atlas - Installation Music"},
-        {youtube: "q-KBUR_pGEY", name: "Atlas - Installation Music"},
-        {youtube: "AlFLrWX7sh8", name: "Atlas - Installation Music"},
-        {youtube: "MXIrUBS8YOE", name: "Atlas - Installation Music"},
+        {youtube: "3NKzT5xD_Rs", name: "Atlas - Installation Music"},
+        {youtube: "N3a5JDQzetY", name: "Atlas - Installation Music"},
+        {youtube: "kjWc2FrapEY", name: "Atlas - Installation Music"},
+        {youtube: "JWHLBJITLlQ", name: "Atlas - Installation Music"},
+        {youtube: "EbSuf4T-V-E", name: "Atlas - Installation Music"},
+        {youtube: "STZxwki9HZY", name: "Atlas - Installation Music"},
 
 ];
 
@@ -192,7 +192,7 @@ var l_messages = [
         "Cheating will result in an automatic or Permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "You cannot remember that you were raided, or who raided you, so you can't be prepared.) Once you die in a raid as a defender (Or an attacker) you can't return to Defend!",
         "We are a serious RP server. Consider being serious at all times but understand there may also be times when the server relaxes!",
-        "Do not caused Confusion and delay!",
+        "Do not caused Confusion and Delay!",
         "Don't ask for a staff position. Post an application on the forums if you feel you are a good candidate for admin, and do not pester us about your application!",
         "Any attempts of scamming or misleading players / staff will result in a harsh punishment!",
         "Do not build inside unowned buildings. A user/s must buy the doors to the building they are building in/on (exceptions can be made for someone who has already built a base and forgot to Purchase doors!",
