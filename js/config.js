@@ -158,7 +158,7 @@ var l_musicPlaylist = [
         {youtube: "UmOgz0VmGKU", name: "Atlas - Installation Music"},
         {youtube: "q-KBUR_pGEY", name: "Atlas - Installation Music"},
         {youtube: "AlFLrWX7sh8", name: "Atlas - Installation Music"},
-        {youtube: "gfK0gbLIALY", name: "Atlas - Installation Music"},
+        {youtube: "MXIrUBS8YOE", name: "Atlas - Installation Music"},
 
 ];
 
@@ -198,7 +198,7 @@ var l_messages = [
         "Do not build inside unowned buildings. A user/s must buy the doors to the building they are building in/on (exceptions can be made for someone who has already built a base and forgot to Purchase doors!",
         "Cheating will result in an automatic or manual permanent ban. This includes abusing Gmod/source exploits with client-side scripts and convars!",
         "Random Death Matching (RDM) is not allowed You must always stay in character and role play every situation that you come across, otherwise this will be considered Fail Role Play (FailRP)!",
-        "don't like trains! Then get the fuck outta of this server!"
+        "don't like trains! Then Get the fuck outta of this server!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
