@@ -119,6 +119,8 @@ var l_musicPlaylist = [
         {youtube: "06gkqCqk3hc", name: "Natins - Installation Music"},
         {youtube: "xiUwUIqvgBI", name: "Natins - Installation Music"},
         {youtube: "JnOxCE46tUA", name: "Natins - Installation Music"},
+        {youtube: "Q4V_-0F0qHo", name: "Natins - Installation Music"},
+        {youtube: "QjGLYKOnYp0", name: "Natins - Installation Music"},
 ];
 
 /*Random music order?*/
